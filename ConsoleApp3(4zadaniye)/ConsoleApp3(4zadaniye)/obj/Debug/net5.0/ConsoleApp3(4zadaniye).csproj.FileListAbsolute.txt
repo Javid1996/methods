@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\04.05\ConsoleApp3(4zadaniye)\ConsoleApp3(4zadaniye)\bin\Debug\net5.0\ConsoleApp3(4zadaniye).exe
+C:\Users\User\Desktop\04.05\ConsoleApp3(4zadaniye)\ConsoleApp3(4zadaniye)\bin\Debug\net5.0\ConsoleApp3(4zadaniye).deps.json
+C:\Users\User\Desktop\04.05\ConsoleApp3(4zadaniye)\ConsoleApp3(4zadaniye)\bin\Debug\net5.0\ConsoleApp3(4zadaniye).runtimeconfig.json
+C:\Users\User\Desktop\04.05\ConsoleApp3(4zadaniye)\ConsoleApp3(4zadaniye)\bin\Debug\net5.0\ConsoleApp3(4zadaniye).runtimeconfig.dev.json
+C:\Users\User\Desktop\04.05\ConsoleApp3(4zadaniye)\ConsoleApp3(4zadaniye)\bin\Debug\net5.0\ConsoleApp3(4zadaniye).dll
+C:\Users\User\Desktop\04.05\ConsoleApp3(4zadaniye)\ConsoleApp3(4zadaniye)\bin\Debug\net5.0\ref\ConsoleApp3(4zadaniye).dll
+C:\Users\User\Desktop\04.05\ConsoleApp3(4zadaniye)\ConsoleApp3(4zadaniye)\bin\Debug\net5.0\ConsoleApp3(4zadaniye).pdb
+C:\Users\User\Desktop\04.05\ConsoleApp3(4zadaniye)\ConsoleApp3(4zadaniye)\obj\Debug\net5.0\ConsoleApp3(4zadaniye).csprojAssemblyReference.cache
+C:\Users\User\Desktop\04.05\ConsoleApp3(4zadaniye)\ConsoleApp3(4zadaniye)\obj\Debug\net5.0\ConsoleApp3(4zadaniye).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\04.05\ConsoleApp3(4zadaniye)\ConsoleApp3(4zadaniye)\obj\Debug\net5.0\ConsoleApp3(4zadaniye).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\04.05\ConsoleApp3(4zadaniye)\ConsoleApp3(4zadaniye)\obj\Debug\net5.0\ConsoleApp3(4zadaniye).AssemblyInfo.cs
+C:\Users\User\Desktop\04.05\ConsoleApp3(4zadaniye)\ConsoleApp3(4zadaniye)\obj\Debug\net5.0\ConsoleApp3(4zadaniye).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\04.05\ConsoleApp3(4zadaniye)\ConsoleApp3(4zadaniye)\obj\Debug\net5.0\ConsoleApp3(4zadaniye).dll
+C:\Users\User\Desktop\04.05\ConsoleApp3(4zadaniye)\ConsoleApp3(4zadaniye)\obj\Debug\net5.0\ref\ConsoleApp3(4zadaniye).dll
+C:\Users\User\Desktop\04.05\ConsoleApp3(4zadaniye)\ConsoleApp3(4zadaniye)\obj\Debug\net5.0\ConsoleApp3(4zadaniye).pdb
+C:\Users\User\Desktop\04.05\ConsoleApp3(4zadaniye)\ConsoleApp3(4zadaniye)\obj\Debug\net5.0\ConsoleApp3(4zadaniye).genruntimeconfig.cache

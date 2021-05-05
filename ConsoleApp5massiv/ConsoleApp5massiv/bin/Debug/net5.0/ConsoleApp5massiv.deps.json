@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleApp5massiv/1.0.0": {
+        "runtime": {
+          "ConsoleApp5massiv.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp5massiv/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

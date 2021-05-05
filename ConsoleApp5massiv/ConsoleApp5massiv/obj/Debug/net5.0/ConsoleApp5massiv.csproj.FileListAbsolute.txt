@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\04.05\ConsoleApp5massiv\ConsoleApp5massiv\bin\Debug\net5.0\ConsoleApp5massiv.exe
+C:\Users\User\Desktop\04.05\ConsoleApp5massiv\ConsoleApp5massiv\bin\Debug\net5.0\ConsoleApp5massiv.deps.json
+C:\Users\User\Desktop\04.05\ConsoleApp5massiv\ConsoleApp5massiv\bin\Debug\net5.0\ConsoleApp5massiv.runtimeconfig.json
+C:\Users\User\Desktop\04.05\ConsoleApp5massiv\ConsoleApp5massiv\bin\Debug\net5.0\ConsoleApp5massiv.runtimeconfig.dev.json
+C:\Users\User\Desktop\04.05\ConsoleApp5massiv\ConsoleApp5massiv\bin\Debug\net5.0\ConsoleApp5massiv.dll
+C:\Users\User\Desktop\04.05\ConsoleApp5massiv\ConsoleApp5massiv\bin\Debug\net5.0\ref\ConsoleApp5massiv.dll
+C:\Users\User\Desktop\04.05\ConsoleApp5massiv\ConsoleApp5massiv\bin\Debug\net5.0\ConsoleApp5massiv.pdb
+C:\Users\User\Desktop\04.05\ConsoleApp5massiv\ConsoleApp5massiv\obj\Debug\net5.0\ConsoleApp5massiv.csprojAssemblyReference.cache
+C:\Users\User\Desktop\04.05\ConsoleApp5massiv\ConsoleApp5massiv\obj\Debug\net5.0\ConsoleApp5massiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\04.05\ConsoleApp5massiv\ConsoleApp5massiv\obj\Debug\net5.0\ConsoleApp5massiv.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\04.05\ConsoleApp5massiv\ConsoleApp5massiv\obj\Debug\net5.0\ConsoleApp5massiv.AssemblyInfo.cs
+C:\Users\User\Desktop\04.05\ConsoleApp5massiv\ConsoleApp5massiv\obj\Debug\net5.0\ConsoleApp5massiv.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\04.05\ConsoleApp5massiv\ConsoleApp5massiv\obj\Debug\net5.0\ConsoleApp5massiv.dll
+C:\Users\User\Desktop\04.05\ConsoleApp5massiv\ConsoleApp5massiv\obj\Debug\net5.0\ref\ConsoleApp5massiv.dll
+C:\Users\User\Desktop\04.05\ConsoleApp5massiv\ConsoleApp5massiv\obj\Debug\net5.0\ConsoleApp5massiv.pdb
+C:\Users\User\Desktop\04.05\ConsoleApp5massiv\ConsoleApp5massiv\obj\Debug\net5.0\ConsoleApp5massiv.genruntimeconfig.cache
